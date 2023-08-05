@@ -1,10 +1,23 @@
 header{
-    background-color: darkolivegreen;
+    background-color:rebeccapurple;
 }
 .nosotros{
     text-align: justify;
     line-height: 1em;
 }
 
-        body { background-color:darkolivegreen;} 
-         
+body { background-color:rebeccapurple;} 
+h1{
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px; 
+  }
+
+  li {
+    font-size: 20px; 
+  }
+  p{
+    font-size: 20px;
+  }
